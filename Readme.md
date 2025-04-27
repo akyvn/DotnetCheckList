@@ -1,0 +1,1 @@
+Hey! I'm an ex-front-end developer and a QA engineer who is a newbie in .NET and tries to learn .NET WebAPI using Entity Framework. This is my first project, I know it's a shitty code pursuing no structure! The only purpose is to play with the .NET and EF to get into it. :D
